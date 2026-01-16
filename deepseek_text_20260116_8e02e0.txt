@@ -1,0 +1,41 @@
+
+### **Attack Points at Each Stage:**
+
+1. **Client Side**
+   - Malware, browser exploits, insecure input validation.
+   
+2. **Network**
+   - Packet sniffing, DNS spoofing, man-in-the-middle attacks.
+   
+3. **Server**
+   - DoS attacks, injection flaws, misconfigured services.
+   
+4. **Database**
+   - SQL injection, unauthorized access, data exfiltration.
+
+---
+
+## 8. Key Definitions
+
+- **Vulnerability:** A weakness in a system that could be exploited.
+- **Threat:** A potential event that could cause harm by exploiting a vulnerability.
+- **Risk:** The likelihood of a threat exploiting a vulnerability and the impact of that event.
+
+---
+
+## 9. Summary
+
+Cyber security is a multidimensional discipline focused on protecting digital assets through principles like the CIA triad. Understanding the attack surface—spanning web apps, networks, APIs, and cloud infrastructure—is crucial for identifying and mitigating risks. The OWASP Top 10 serves as a vital guide to the most pressing web security threats. By mapping everyday applications to potential vulnerabilities, we can better appreciate the importance of secure design, monitoring, and user awareness in the digital age.
+
+---
+
+## 10. References
+
+- OWASP Foundation. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten/
+- Google Cybersecurity Blog. https://security.googleblog.com/
+- National Institute of Standards and Technology (NIST). *Cybersecurity Framework*.
+- Verizon. (2023). *Data Breach Investigations Report*.
+
+---
+
+**End of Report**
