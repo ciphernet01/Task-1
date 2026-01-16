@@ -1,7 +1,7 @@
 # Cyber Security Basics & Attack Surface Report
 
-**Author:** [Your Name]  
-**Date:** [Current Date]  
+**Author:** SHREYANSH SINGH 
+**Date:** 15 January 2026 
 **Task:** Understanding Cyber Security Basics & Attack Surface
 
 ---
